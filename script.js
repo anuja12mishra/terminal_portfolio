@@ -35,7 +35,7 @@ More projects coming soon!
 `,
   achievements: `
 Welcome to the achievements directory! Here are a few highlights:
-  - Published an article on DSA and Web-dev <a href="https://www.geeksforgeeks.org/user/25anuja/contributions" target="_blank">Link</a>.
+  - Published articles on DSA and Web-dev <a href="https://www.geeksforgeeks.org/user/25anuja/contributions" target="_blank">Link</a>.
   - Achieved 1000+ problem solutions on LeetCode,GFG and HackerRank.
 Type "cd achievements" to explore photos of my awards and certifications (in the linkedin certifications section).
 `,
