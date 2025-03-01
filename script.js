@@ -30,7 +30,7 @@ Here are a few of my projects:
   - <a href="https://github.com/anujamishra/automated-bus-scheduling" target="_blank">Automated Bus Scheduling</a>: Optimized DTC bus routes using AI and GIS (Ongoing..........).
   - <a href="https://github.com/anujamishra/tic-tac-toe-ai" target="_blank">Tic Tac Toe Game</a>: A game with an AI opponent using Minimax Algorithm.
   - <a href="https://github.com/anujamishra/data-visualizer" target="_blank">Data Visualizer</a>: Analyzes and visualizes data trends using Python's Matplotlib and Pandas.
-  -<a heref="https://anuja12mishra.github.io/OpenBookApi/" target="_blank">Book shop</a>: Used google books api for building this site.
+  - <a heref="https://anuja12mishra.github.io/OpenBookApi/" target="_blank">Book shop</a>: Used google books api for building this site.
 More projects coming soon!
 `,
   achievements: `
