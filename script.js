@@ -30,12 +30,12 @@ Here are a few of my projects:
   - <a href="https://github.com/anujamishra/automated-bus-scheduling" target="_blank">Automated Bus Scheduling</a>: Optimized DTC bus routes using AI and GIS (Ongoing..........).
   - <a href="https://github.com/anujamishra/tic-tac-toe-ai" target="_blank">Tic Tac Toe Game</a>: A game with an AI opponent using Minimax Algorithm.
   - <a href="https://github.com/anujamishra/data-visualizer" target="_blank">Data Visualizer</a>: Analyzes and visualizes data trends using Python's Matplotlib and Pandas.
-  - <a heref="https://anuja12mishra.github.io/OpenBookApi" target="_blank">Book shop</a>: Used google books api for building this site.
+  - <a href="https://anuja12mishra.github.io/OpenBookApi" target="_blank">Book shop</a>: Used google books api for building this site.
 More projects coming soon!
 `,
   achievements: `
 Welcome to the achievements directory! Here are a few highlights:
-  - Published an article on DSA and Web-dev <a heref="https://www.geeksforgeeks.org/user/25anuja/contributions" target="_blank">Link</a>.
+  - Published an article on DSA and Web-dev <a href="https://www.geeksforgeeks.org/user/25anuja/contributions" target="_blank">Link</a>.
   - Achieved 1000+ problem solutions on LeetCode,GFG and HackerRank.
 Type "cd achievements" to explore photos of my awards and certifications (in the linkedin certifications section).
 `,
